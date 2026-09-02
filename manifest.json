@@ -1,0 +1,9 @@
+{
+  "songs": [
+    {
+      "id": "old_macdonald_bass",
+      "title": "Old MacDonald (Bass)",
+      "midiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/OldMacdonaldBass.mid"
+    }
+  ]
+}
