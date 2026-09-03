@@ -3,7 +3,14 @@
     {
       "id": "old_macdonald_bass",
       "title": "Old MacDonald (Bass)",
-      "midiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/OldMacdonaldBass.mid"
-    }
+      "midiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/OldMacdonaldBass.mid",
+      "backingMidiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/OldMacdonaldBass.mid"
+    },
+    {
+      "id": "handerna_bass",
+      "title": "Handerna (Bass)",
+      "midiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/HandernaBass.mid",
+      "backingMidiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/Handerna.mid"
+    },    
   ]
 }
