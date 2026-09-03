@@ -1,17 +1,25 @@
 {
-  "songs": [
+  "tracks": [
     {
-      "id": "old_macdonald_bass",
-      "title": "Old MacDonald (Bass)",
-      "midiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/OldMacdonaldBass.mid",
-      "backingMidiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/OldMacdonaldBass.mid"
-    },
-    {
-      "id": "handerna_bass",
-      "title": "Handerna (Bass)",
-      "midiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/HandernaBass.mid",
-      "backingMidiUrl": "https://raw.githubusercontent.com/FenBoy/GlobalVoices/main/midi/Handerna.mid"
-    }    
+      "id": "old_macdonald",
+      "title": "Old MacDonald",
+      "parts": [
+        {
+          "name": "Alto",
+          "referenceMidi": "/midi/old_macdonald/alto_reference.mid",
+          "backingMidi": "/midi/old_macdonald/alto_backing.mid",
+          "referenceAudio": "/audio/old_macdonald/alto_reference.mp3",
+          "backingAudio": "/audio/old_macdonald/alto_backing.mp3"
+        },
+        {
+          "name": "Bass 1",
+          "referenceMidi": "/midi/old_macdonald/bass1_reference.mid",
+          "backingMidi": "/midi/old_macdonald/bass1_backing.mid",
+          "referenceAudio": "/audio/old_macdonald/bass1_reference.mp3",
+          "backingAudio": "/audio/old_macdonald/bass1_backing.mp3"
+        }
+      ]
+    }
   ]
 }
 
