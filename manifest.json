@@ -7,15 +7,11 @@
         {
           "name": "Alto",
           "referenceMidi": "/midi/old_macdonald/alto_reference.mid",
-          "backingMidi": "/midi/old_macdonald/alto_backing.mid",
-          "referenceAudio": "/audio/old_macdonald/alto_reference.mp3",
-          "backingAudio": "/audio/old_macdonald/alto_backing.mp3"
+          "backingMidi": "/midi/old_macdonald/alto_backing.mid"
         },
         {
           "name": "Bass 1",
           "referenceMidi": "/midi/old_macdonald/bass1_reference.mid",
-          "backingMidi": "/midi/old_macdonald/bass1_backing.mid",
-          "referenceAudio": "/audio/old_macdonald/bass1_reference.mp3",
           "backingAudio": "/audio/old_macdonald/bass1_backing.mp3"
         }
       ]
