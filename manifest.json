@@ -11,8 +11,8 @@
         },
         {
           "name": "Bass 1",
-          "referenceMidi": "/midi/old_macdonald/bass1_reference.mid",
-          "backingAudio": "/audio/old_macdonald/bass1_backing.mp3"
+          "referenceMidi": "/midi/OldMacdonaldBass.mid",  
+          "backingMidi": "/midi/OldMacdonaldBass.mid"         
         }
       ]
     }
