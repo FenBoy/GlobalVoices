@@ -15,6 +15,16 @@
           "backingMidi": "/midi/OldMacdonaldBass.mid"         
         }
       ]
+    },
+    {
+      "id": "stand_up",
+      "title": "Stand Up",
+        {
+          "name": "Bass",
+          "referenceMidi": "/midi/OldMacdonaldBass.mid",  
+          "backingAudio": "/audio/StandUpBass(Emerson).mp3"         
+        }
+      ]
     }
   ]
 }
