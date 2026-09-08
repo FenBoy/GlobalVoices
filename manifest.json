@@ -1,6 +1,17 @@
 {
   "tracks": [
     {
+      "id": "stand_up",
+      "title": "Stand Up",
+      "parts": [      
+        {
+          "name": "Bass",
+          "referenceMidi": "/midi/OldMacdonaldBass.mid",  
+          "backingAudio": "/audio/StandUpBass(Emerson).mp3"         
+        }
+      ]
+    },    
+    {
       "id": "old_macdonald",
       "title": "Old MacDonald",
       "parts": [
@@ -13,17 +24,6 @@
           "name": "Bass 1",
           "referenceMidi": "/midi/OldMacdonaldBass.mid",  
           "backingMidi": "/midi/OldMacdonaldBass.mid"         
-        }
-      ]
-    },
-    {
-      "id": "stand_up",
-      "title": "Stand Up",
-      "parts": [      
-        {
-          "name": "Bass",
-          "referenceMidi": "/midi/OldMacdonaldBass.mid",  
-          "backingAudio": "/audio/StandUpBass(Emerson).mp3"         
         }
       ]
     }
