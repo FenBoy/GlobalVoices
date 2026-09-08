@@ -19,6 +19,7 @@
     {
       "id": "stand_up",
       "title": "Stand Up",
+      "parts": [      
         {
           "name": "Bass",
           "referenceMidi": "/midi/OldMacdonaldBass.mid",  
