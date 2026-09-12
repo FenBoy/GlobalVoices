@@ -17,6 +17,7 @@
       "parts": [
         {
           "name": "Bass",
+          "part": 1,
           "reference": "/Mxl/Tihore.mxl"          
         }
       ]
