@@ -3,30 +3,31 @@
     {
       "id": "stand_up",
       "title": "Stand Up",
-      "parts": [      
+      "parts": [
         {
           "name": "Bass",
-          "referenceMidi": "/midi/OldMacdonaldBass.mid",  
-          "backingAudio": "/audio/StandUpBass(Emerson).mp3"         
+          "reference": "/midi/OldMacdonaldBass.mid",
+          "backing": "/audio/StandUpBass(Emerson).mp3"
         }
       ]
-    },    
+    },
     {
       "id": "old_macdonald",
       "title": "Old MacDonald",
       "parts": [
         {
           "name": "Alto",
-          "referenceMidi": "/midi/old_macdonald/alto_reference.mid",
-          "backingMidi": "/midi/old_macdonald/alto_backing.mid"
+          "reference": "/midi/old_macdonald/alto_reference.mid",
+          "backing": "/midi/old_macdonald/alto_backing.mid"
         },
         {
           "name": "Bass 1",
-          "referenceMidi": "/midi/OldMacdonaldBass.mid",  
-          "backingMidi": "/midi/OldMacdonaldBass.mid"         
+          "reference": "/midi/OldMacdonaldBass.mid",
+          "backing": "/midi/OldMacdonaldBass.mid"
         }
       ]
     }
   ]
 }
+
 
