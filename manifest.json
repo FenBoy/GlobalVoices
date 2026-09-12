@@ -12,6 +12,16 @@
       ]
     },
     {
+      "id": "tehore",
+      "title": "Tehore Mai Te Rangi",
+      "parts": [
+        {
+          "name": "Bass",
+          "reference": "/Mxl/Tihore Mai Te Rangi (in D).mxl",          
+        }
+      ]
+    },    
+    {
       "id": "old_macdonald",
       "title": "Old MacDonald",
       "parts": [
