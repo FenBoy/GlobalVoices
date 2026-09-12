@@ -1,5 +1,30 @@
 {
   "tracks": [
+      {
+      "id": "here_within",
+      "title": "Here Within These Walls",
+      "parts": [
+        {
+          "name": "Mezzo",
+          "reference": "/Mxl/Here_Within_These_Walls_Mezzo.mxl"          
+        }
+      ]
+    },   
+    {
+      "id": "old_macdonald",
+      "title": "Old MacDonald",
+      "parts": [
+        {
+          "name": "Alto",
+          "reference": "/MusicXml/OldMacdonaldOut.musicxml"          
+        },
+        {
+          "name": "Bass 1",
+          "reference": "/midi/OldMacdonaldBass.mid",
+          "backing": "/midi/OldMacdonaldBass.mid"
+        }
+      ]
+    },    
     {
       "id": "stand_up",
       "title": "Stand Up",
@@ -21,22 +46,7 @@
           "reference": "/Mxl/Tihore.mxl"          
         }
       ]
-    },    
-    {
-      "id": "old_macdonald",
-      "title": "Old MacDonald",
-      "parts": [
-        {
-          "name": "Alto",
-          "reference": "/MusicXml/OldMacdonaldOut.musicxml"          
-        },
-        {
-          "name": "Bass 1",
-          "reference": "/midi/OldMacdonaldBass.mid",
-          "backing": "/midi/OldMacdonaldBass.mid"
-        }
-      ]
-    }
+    }    
   ]
 }
 
