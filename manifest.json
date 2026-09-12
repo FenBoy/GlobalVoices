@@ -17,8 +17,7 @@
       "parts": [
         {
           "name": "Alto",
-          "reference": "/midi/old_macdonald/alto_reference.mid",
-          "backing": "/midi/old_macdonald/alto_backing.mid"
+          "reference": "/MusicXml/OldMacdonaldOut.musicxml"          
         },
         {
           "name": "Bass 1",
