@@ -5,9 +5,25 @@
       "title": "Handerna",
       "parts": [
         {
-          "name": "Bass",
+          "name": "Soprano",
+          "part": 0,
           "reference": "/Mxl/Handerna.mxl"          
-        }
+        },
+        {
+          "name": "Alto",
+          "part": 1,
+          "reference": "/Mxl/Handerna.mxl"          
+        },
+        {
+          "name": "Tenor",
+          "part": 2,
+          "reference": "/Mxl/Handerna.mxl"          
+        },
+        {
+          "name": "Bass",
+          "part": 3,
+          "reference": "/Mxl/Handerna.mxl"          
+        }        
       ]
     },       
       {
