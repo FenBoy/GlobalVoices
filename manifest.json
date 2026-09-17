@@ -47,32 +47,10 @@
         {
           "name": "Bass 1",
           "part": 0,
-          "reference": "/Mxl/OldMacdonaldOut.mxl",          
+          "reference": "/Mxl/OldMacdonaldOut.mxl"          
         }
       ]
-    },    
-    {
-      "id": "stand_up",
-      "title": "Stand Up",
-      "parts": [
-        {
-          "name": "Bass",
-          "reference": "/midi/OldMacdonaldBass.mid",
-          "backing": "/audio/StandUpBass(Emerson).mp3"
-        }
-      ]
-    },
-    {
-      "id": "tehore",
-      "title": "Tehore Mai Te Rangi",
-      "parts": [
-        {
-          "name": "Bass",
-          "part": 1,
-          "reference": "/Mxl/Tihore.mxl"          
-        }
-      ]
-    }    
+    }  
   ]
 }
 
