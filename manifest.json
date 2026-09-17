@@ -27,12 +27,13 @@
       ]
     },       
       {
-      "id": "here_within",
-      "title": "Here Within These Walls",
+      "id": "chan_mali_chan",
+      "title": "Chan Mali Chan",
       "parts": [
         {
-          "name": "Mezzo",
-          "reference": "/Mxl/Here_Within_These_Walls_Mezzo.mxl"          
+          "name": "Bass",
+          "part": 4,
+          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
         }
       ]
     },   
