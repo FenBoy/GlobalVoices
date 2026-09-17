@@ -30,11 +30,26 @@
       "id": "chan_mali_chan",
       "title": "Chan Mali Chan",
       "parts": [
-        {
-          "name": "Bass",
-          "part": 4,
+         {
+          "name": "Zero",
+          "part": 0,
           "reference": "/Mxl/Chan_Mali_Chan.mxl"          
-        }
+        },
+        {
+          "name": "One",
+          "part": 1,
+          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
+        },
+        {
+          "name": "Two",
+          "part": 2,
+          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
+        },
+        {
+          "name": "Three",
+          "part": 3,
+          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
+        }        
       ]
     },   
     {
