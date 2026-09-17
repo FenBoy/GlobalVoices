@@ -46,8 +46,8 @@
         },
         {
           "name": "Bass 1",
-          "reference": "/midi/OldMacdonaldBass.mid",
-          "backing": "/midi/OldMacdonaldBass.mid"
+          "part": 0,
+          "reference": "/Mxl/OldMacdonaldOut.mxl",          
         }
       ]
     },    
