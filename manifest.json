@@ -1,99 +1,20 @@
 {
   "tracks": [    
     {
-      "id": "cant help",
       "title": "Can't Help Falling",
-      "parts": [
-         {
-          "name": "Zero",
-          "part": 0,
-          "reference": "/Mxl/Can't_Help_Falling_LowParts.mxl"          
-        },
-        {
-          "name": "One",
-          "part": 1,
-          "reference": "/Mxl/Can't_Help_Falling_LowParts.mxl"          
-        },
-        {
-          "name": "Two",
-          "part": 2,
-          "reference": "/Mxl/Can't_Help_Falling_LowParts.mxl"          
-        },
-        {
-          "name": "Three",
-          "part": 3,
-          "reference": "/Mxl/Can't_Help_Falling_LowParts.mxl"          
-        }        
-      ]
+      "reference": "/Mxl/Can't_Help_Falling_LowParts.mxl"
     },   
       {
-      "id": "chan_mali_chan",
       "title": "Chan Mali Chan",
-      "parts": [
-         {
-          "name": "Zero",
-          "part": 0,
-          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
-        },
-        {
-          "name": "One",
-          "part": 1,
-          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
-        },
-        {
-          "name": "Two",
-          "part": 2,
-          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
-        },
-        {
-          "name": "Three",
-          "part": 3,
-          "reference": "/Mxl/Chan_Mali_Chan.mxl"          
-        }        
-      ]
+      "reference": "/Mxl/Chan_Mali_Chan.mxl"    
     },   
-      {
-      "id": "handerna",
-      "title": "Handerna",
-      "parts": [
-        {
-          "name": "Soprano",
-          "part": 0,
-          "reference": "/Mxl/Handerna.mxl"          
-        },
-        {
-          "name": "Alto",
-          "part": 1,
-          "reference": "/Mxl/Handerna.mxl"          
-        },
-        {
-          "name": "Tenor",
-          "part": 2,
-          "reference": "/Mxl/Handerna.mxl"          
-        },
-        {
-          "name": "Bass",
-          "part": 3,
-          "reference": "/Mxl/Handerna.mxl"          
-        }        
-      ]
+      {      
+       "title": "Handerna",
+       "reference": "/Mxl/Handerna.mxl"               
     },       
-    {
-      "id": "old_macdonald",
+    {      
       "title": "Old MacDonald",
-      "parts": [
-        {
-          "name": "Alto",
-          "reference": "/MusicXml/OldMacdonaldOut.musicxml"          
-        },
-        {
-          "name": "Bass 1",
-          "part": 0,
-          "reference": "/Mxl/OldMacdonaldOut.mxl"          
-        }
-      ]
+      "reference": "/MusicXml/OldMacdonaldOut.musicxml"   
     }  
   ]
 }
-
-
