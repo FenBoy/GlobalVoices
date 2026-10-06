@@ -15,6 +15,10 @@
     {      
       "title": "Old MacDonald",
       "reference": "/MusicXml/OldMacdonaldOut.musicxml"   
+    },
+        {      
+      "title": "Fast MacDonald",
+      "reference": "/MusicXml/FastMacdonald.musicxml"   
     }  
   ]
 }
