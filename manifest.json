@@ -12,6 +12,10 @@
        "title": "Handerna",
        "reference": "/Mxl/Handerna.mxl"               
     },    
+          {      
+       "title": "Handerna test",
+       "reference": "/Mxl/HandernaTest.mxl"               
+    }, 
       {      
        "title": "Time signatures",
        "reference": "/Mxl/TimeSignatures.mxl"               
